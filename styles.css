@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+    justify-content: safe;
+}
+
+#color-head{
+    width: 60px;
+    height: 40px;
+
+}
+#color-scheme{
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+}
+#get-color{
+    height: 40px;
+    width: 200px;
+}
